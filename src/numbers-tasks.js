@@ -664,8 +664,6 @@ function getCountOfOddNumbers(number) {
   return count;
 }
 
-console.log(getCountOfOddNumbers(-4));
-
 module.exports = {
   getRectangleArea,
   getCircleCircumference,
